@@ -4,12 +4,7 @@
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
 }
-/* .carousel-caption {
-  margin-bottom: 200px !important;
-} */
-.left-arrow {
-  margin-left: -15px;
-}
+
 .right-arrow {
-  margin-right: -15px;
+  margin-right: -32px;
 }
