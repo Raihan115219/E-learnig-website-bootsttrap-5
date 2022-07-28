@@ -7,3 +7,9 @@
 /* .carousel-caption {
   margin-bottom: 200px !important;
 } */
+.left-arrow {
+  margin-left: -15px;
+}
+.right-arrow {
+  margin-right: -15px;
+}
